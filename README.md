@@ -1,4 +1,5 @@
 # Shotcut Load DJI Proxies
+Based off https://github.com/themadhatter37/ShotcutLoadGoProProxies
 [![Python 3](https://img.shields.io/badge/python-3-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](./LICENSE.txt)
 ## Table of contents
 * [General Info](#general-info)
